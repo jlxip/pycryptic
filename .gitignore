@@ -1,0 +1,4 @@
+build/
+dist/
+pycryptic.egg-info/
+pycryptic/*.pyc
